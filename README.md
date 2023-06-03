@@ -8,6 +8,27 @@ I'm *MrGiraffe*, an active web developer and 3d designer.
 <img decoding="async" src="img/index.png" width="60%">
 * *https://mrgiraffe0102.github.io/front.html*——Front Page  
 <img decoding="async" src="img/front.png" width="60%">
+
+## Read INSTALL
+* HTTPS: *https://github.com/Mrgiraffe0102/Mrgiraffe0102.github.io.git*
+* SSH: *git@github.com:Mrgiraffe0102/Mrgiraffe0102.github.io.git*
+* GitHub CLI: *gh repo clone Mrgiraffe0102/Mrgiraffe0102.github.io*
+## How to arrange
+Run 'index.html directly
+## Technology Preview
+* paper-full.min
+## Read AUTHORS
+* *wttAndroid*(https://gitee.com/wttAndroid), providing source code  
+* *Mr姚*, participated in building the website
+## Contact Info.
+Please email me at *pangyuze20100102@163.com* or *pangyuze20100102@gmail.com*.
+## Updating Data
+(none)
+## Legal Info.
+This file is no longer open source since May30, 2023!!!  
+Was already used as my IT class homework!!  
+Thankyou very much for your attention and constant support,  
+Please visit *https://gitee.com/wttAndroid/web-resume-resume* for Upstream Files.
 ## File Layout
 Mrgiraffe0102.github.io-main  
 |  
@@ -75,25 +96,5 @@ Mrgiraffe0102.github.io-main
 |——showmd.html  
 |——README.md  
 (7 html pages, 3 folders, 53 files, 92.3mb in total)
-## Read INSTALL
-* HTTPS: *https://github.com/Mrgiraffe0102/Mrgiraffe0102.github.io.git*
-* SSH: *git@github.com:Mrgiraffe0102/Mrgiraffe0102.github.io.git*
-* GitHub CLI: *gh repo clone Mrgiraffe0102/Mrgiraffe0102.github.io*
-## How to arrange
-Run 'index.html directly
-## Technology Preview
-* paper-full.min
-## Read AUTHORS
-* *wttAndroid*(https://gitee.com/wttAndroid), providing source code  
-* *Mr姚*, participated in building the website
-## Contact Info.
-Please email me at *pangyuze20100102@163.com* or *pangyuze20100102@gmail.com*.
-## Updating Data
-(none)
-## Legal Info.
-This file is no longer open source since May30, 2023!!!  
-Was already used as my IT class homework!!  
-Thankyou very much for your attention and constant support,  
-Please visit *https://gitee.com/wttAndroid/web-resume-resume* for Upstream Files.
 ***
 2023@MR GIRAFFE, all rights reserved
