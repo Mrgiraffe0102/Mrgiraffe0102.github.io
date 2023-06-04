@@ -4,9 +4,9 @@ This is a personal website based on an opensource project provided by *wttAndroi
 I'm *MrGiraffe*, an active web developer and 3d designer.  
 <img decoding="async" src="img/PYZ.jpg" width="20%">
 ## Online Preview
-* *https://mrgiraffe0102.github.io/* ——Index Page  
+* https://mrgiraffe0102.github.io/ ——Index Page  
 <img decoding="async" src="img/index.png" width="60%">
-* *https://mrgiraffe0102.github.io/front.html/* ——Front Page  
+* https://mrgiraffe0102.github.io/front.html ——Front Page  
 <img decoding="async" src="img/front.png" width="60%">
 
 ## Read INSTALL
