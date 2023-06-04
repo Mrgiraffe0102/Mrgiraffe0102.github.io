@@ -14,7 +14,7 @@ I'm *MrGiraffe*, an active web developer and 3d designer.
 * SSH: *git@github.com:Mrgiraffe0102/Mrgiraffe0102.github.io.git*
 * GitHub CLI: *gh repo clone Mrgiraffe0102/Mrgiraffe0102.github.io*
 ## How to arrange
-Run 'index.html directly
+Run 'index.html' directly
 ## Technology Preview
 * paper-full.min
 ## Read AUTHORS
