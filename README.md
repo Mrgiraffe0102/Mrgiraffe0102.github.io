@@ -27,7 +27,7 @@ Please email me at *pangyuze20100102@163.com* or *pangyuze20100102@gmail.com*.
 ## Legal Info.
 This file is no longer open source since May30, 2023!!!  
 Was already used as my IT class homework!!  
-License under , for more, check out at /LICENSE or https://github.com/Mrgiraffe0102/Mrgiraffe0102.github.io/blob/main/LICENSE  
+License under *GNU General Public License v3.0*, for more, check out at /LICENSE or https://github.com/Mrgiraffe0102/Mrgiraffe0102.github.io/blob/main/LICENSE  
 Thankyou very much for your attention and constant support,  
 Please visit *https://gitee.com/wttAndroid/web-resume-resume* for Upstream Files.
 ## File Layout
