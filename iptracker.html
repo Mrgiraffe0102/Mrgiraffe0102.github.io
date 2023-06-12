@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  iptracker
+</head>
+<body>
+  <?php
+  $ip = $_SERVER["REMOTE_ADDR"];
+  echo $ip;
+  $myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
+  fwrite($myfile, $ip);
+  fclose($myfile);
+  ?>
+</body>
+</html>
