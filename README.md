@@ -98,4 +98,4 @@ Mrgiraffe0102.github.io-main
 |——README.md  
 (7 html pages, 3 folders, 53 files, 92.3mb in total)
 ***
-2023@MR GIRAFFE, all rights reserved
+Copyright © 2023 Mrgiraffe0102 under *GNU General Public License v3.0*
