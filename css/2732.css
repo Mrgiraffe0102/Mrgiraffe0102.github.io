@@ -4,11 +4,9 @@
   width: 190px;
   height: 254px;
   transition: 200ms;
-}
-
-.container:active {
-  width: 180px;
-  height: 245px;
+  display: flex; /* 添加flex布局 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
 }
 
 #card {
